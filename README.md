@@ -69,29 +69,6 @@ Forensic Alpha =
 | −0.3 – 0.3 | Hold |
 | −1.0 – −0.3 | Short |
 | < −1.0 | Strong Short |
-
----
-
-## 🖥️ Application Structure
-
-```
-
-Forensic Alpha Scanner/
-│
-├── app.py                    # Main Streamlit app
-├── utils/
-│   ├── forensic_scores.py    # Score calculations
-│   ├── forensic_alpha.py     # Alpha construction
-│   └── **init**.py
-│
-├── data/
-│   └── sample_inputs.xlsx
-│
-├── EXACT_FIX_INSTRUCTIONS.md
-├── README.md
-
-````
-
 ---
 
 ## 📥 Input Format (Required)
