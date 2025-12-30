@@ -166,20 +166,3 @@ It is **not investment advice**.
 **Gurjit Sagarv**
 MBA | Finance | Forensic Accounting
 IIM Ranchi
-
----
-
-## ⭐ Suggested Improvements (Future Work)
-
-* Portfolio-level alpha aggregation
-* Market-relative alpha benchmarking
-* Risk-adjusted alpha scoring
-* API-based financial data ingestion
-* Explainable AI reasoning layer
-
----
-
-If you are reviewing this project:
-👉 Start with `app.py` and then `utils/forensic_scores.py`.
-Just tell me.
-```
