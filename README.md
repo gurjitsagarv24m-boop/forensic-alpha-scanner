@@ -1,7 +1,3 @@
-Here is a **clean, professional, submission-ready `README.md`** you can copy-paste directly into GitHub.
-
----
-
 ```markdown
 # 🔍 Forensic Alpha Scanner
 
