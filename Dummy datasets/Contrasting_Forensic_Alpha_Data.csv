@@ -1,0 +1,24 @@
+Statement,Item,2022,2023,2024
+Income Statement,Revenue,2200000,1800000,1500000
+Income Statement,Cost of Goods Sold,1540000,1350000,1200000
+Income Statement,Gross Profit,660000,450000,300000
+Income Statement,Operating Expenses,520000,480000,420000
+Income Statement,EBIT,140000,-30000,-120000
+Income Statement,Depreciation,90000,95000,100000
+Income Statement,Interest Expense,85000,90000,95000
+Income Statement,Tax Expense,12000,0,0
+Income Statement,Net Income,43000,-120000,-250000
+Balance Sheet,Current Assets,380000,320000,280000
+Balance Sheet,Accounts Receivable,210000,230000,260000
+Balance Sheet,Inventory,300000,340000,380000
+Balance Sheet,Fixed Assets,2200000,2100000,2000000
+Balance Sheet,Total Assets,2880000,2750000,2600000
+Balance Sheet,Current Liabilities,520000,580000,650000
+Balance Sheet,Long Term Debt,1100000,1250000,1400000
+Balance Sheet,Total Liabilities,1620000,1830000,2050000
+Balance Sheet,Shareholders Equity,1260000,920000,550000
+Balance Sheet,Retained Earnings,180000,-40000,-250000
+Cash Flow,Operating Cash Flow,-20000,-80000,-150000
+Cash Flow,Investing Cash Flow,-250000,-300000,-350000
+Cash Flow,Financing Cash Flow,180000,220000,300000
+Cash Flow,Net Cash Flow,-90000,-160000,-200000
